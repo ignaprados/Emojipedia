@@ -15,13 +15,13 @@ Use the package manager [npm](https://www.npmjs.com/) to install the React Web A
 ```bash
 npm install
 ```
- ## Run App
-Or you can use instead [npm](https://www.npmjs.com/)
- ```
- npm start
- ```
+## Run App
+You can use [npm](https://www.npmjs.com/).
+```
+npm start
+```
 
- ## Key Technologies used
+## Key Technologies used
 - HTML5
 - CSS3
 - JavaScript
