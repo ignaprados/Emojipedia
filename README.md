@@ -4,7 +4,7 @@ Responsive Emojipedia Web created with React
 <br><br>
 Creator: [IgnacioPrados](https://github.com/IgnacioPrados)
 
-https://hsbij.csb.app/
+https://emojipedia-ip.vercel.app
 
 ## Description
 Web made with React, to practice arrow functions, array mapping data, props, importing components and feching data from JSON array of objects. It shows a list of cards with emojis and it's meanings.
