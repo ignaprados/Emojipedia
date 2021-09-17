@@ -22,8 +22,9 @@ npm start
 ```
 
 ## Key Technologies used
-- JSX
+- HTML
 - CSS3
+- JSX
 - JavaScript
 - React
  
